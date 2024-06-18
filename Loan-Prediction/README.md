@@ -18,9 +18,9 @@ This project uses a Support Vector Machine (SVM) to predict loan approvals. The 
     jupyter notebook load_prediction.ipynb
     ```
 2. Install dependencies using pip:
-```bash
+    ```bash
     pip install -r requirements.txt
-```
+    ```
 3. Run the cells in the notebook to:
     - Load and preprocess the dataset
     - Train the SVM model
