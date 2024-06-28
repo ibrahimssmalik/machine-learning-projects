@@ -1,6 +1,6 @@
 # Loan Approval Prediction with Machine Learning Using Python
 
-In the realm of finance, loan approval prediction is a critical task that involves evaluating an applicant's eligibility for a loan. This process requires a detailed analysis of various factors such as the applicant’s financial history, income, credit rating, employment status, and other relevant attributes. By leveraging historical loan data and applying machine learning algorithms, businesses can build robust models to accurately predict loan approvals for new applicants.
+In the realm of finance, loan approval prediction is a critical task that involves evaluating an applicant's eligibility for a loan. This process requires a detailed analysis of various factors such as the applicant’s financial history, income, credit rating, employment status, and other relevant attributes. By leveraging historical loan data and then applying machine learning algorithms, businesses can build robust models to accurately predict loan approvals for new applicants.
 
 ## Project Overview
 
