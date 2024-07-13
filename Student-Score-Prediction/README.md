@@ -4,7 +4,7 @@ This is a simple linear regression involving two variables. In this regression t
 
 ## Project Overview
 
-This project uses a Linear Regression to predict student scores. The repository contains three files:
+This project uses Google Colab to set up a Linear Regression to predict student scores. The repository contains three files:
 
 1. `README.md`: Documentation of the project.
 2. `student_scores.csv`: The dataset used for training and testing the model.
